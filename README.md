@@ -7,3 +7,4 @@ Sobre este archivo se dejaran las ideas propuestas por la comunidad para el estu
 
 ### Lista de repositorios participando
 * https://github.com/digixoo/desafio_juego_del_ahorcado
+* https://github.com/angeltafur/hangman-game-cli
